@@ -86,7 +86,7 @@ Due to the time constraints we faced, we were unable to fix some bugs in the gam
 
 ## 📜 License
 
-The Izland © 2022 by Fivemost is licensed under CC BY-NC-ND 4.0. To view the details of this license, visit this link.
+The Izland © 2020 by Fivemost is licensed under CC BY-NC-ND 4.0. To view the details of this license, visit this link.
 
 ## 📷 Screenshots
 
