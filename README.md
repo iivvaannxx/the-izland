@@ -36,11 +36,11 @@ The Izland is a zombie survival game developed as a project for a college subjec
 
 The player is the daughter of one of the scientists who was forced to work on the island, who was searching for her father. As the player, you have to survive and kill all the zombies on the island. Will you be able to escape the island? 
 
-## 🛠️ Installation
+## 🛠️ How to Play
 
-The game is available on the [itch.io page](https://fivemost.itch.io/the-izland) we created for our group. You can download it from there.
+The game is available on the [itch.io page](https://fivemost.itch.io/the-izland) we created for our group. You can download it from there. After downloading it, extract the files and run the executable file, you don't need to install anything else.
 
-## 🎮 How to Play
+## 🎮 Controls
 
 Upon starting the game, you will be greeted with the main menu. You can start the game by clicking on the `Start` button. After starting the game, a short (~50 seconds) **non-skippable** cutscene will play and introduce you to the story of the game. 
 
@@ -48,8 +48,6 @@ Once the cutscene ends, you will be inside the game and the instructions will be
 
 > [!TIP]
 > The subject required us to create a "special" mode (we called it "Admin Mode") to facilitate the testing of the game. To enable it, press the `G` upon you see the first tutorial message. This mode will prevent you from dying.
-
-### Controls
 
 You can always check the controls by pressing the `ESC` key, which will pause the game and allow you to enter the "Options" menu and see them. The other controls are:
 
