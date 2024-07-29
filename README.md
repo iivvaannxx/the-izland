@@ -32,7 +32,7 @@
 
 ## 📖 Introduction
 
-The Izland is a zombie survival game developed as a project for a college subject where we were tasked to create a game using the Unity game engine. The game is set on a deserted island, where a military secret group forced scientists to experiment with humans. The experiments went wrong, and the island was infected with a virus that turned humans into zombies.
+The Izland is a zombie survival game developed by a team I was part of (Fivemost), as a project for a college subject where we were tasked to create a game using the Unity game engine. The game is set on a deserted island, where a military secret group forced scientists to experiment with humans. The experiments went wrong, and the island was infected with a virus that turned humans into zombies.
 
 The player is the daughter of one of the scientists who was forced to work on the island, who was searching for her father. As the player, you have to survive and kill all the zombies on the island. Will you be able to escape the island? 
 
